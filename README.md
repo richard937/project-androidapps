@@ -1,2 +1,2 @@
 # project-androidapps
-these are all my apps i have created
+this is my first app that i have created, this is a birthday app 
